@@ -1,4 +1,4 @@
-Hello Xcode - Modern SwiftUI Essentials 
+<img width="1710" height="996" alt="Screenshot 2026-04-17 at 10 26 08 PM" src="https://github.com/user-attachments/assets/bcb8578e-789b-400a-ba03-4cb8edbcf1ed" />Hello Xcode - Modern SwiftUI Essentials 
 📝 Project Overview
 This is my first hands-on project in the iOS & Swift journey. It’s a modern, single-page application designed to master the fundamentals of SwiftUI layouts, custom styling, and asset management.
 
@@ -19,4 +19,4 @@ Framework: SwiftUI
 Tools: Xcode 26, Git, GitHub.
 
 📸 Screenshot
-![Uploading Screenshot 2026-04-17 at 10.26.08 PM.png…]()
+(اسحب الصورة اللي فيها شكل الموبايل وحطها هنا)![…<img width="1710" height="996" alt="Screenshot 2026-04-17 at 10 26 08 PM" src="https://github.com/user-attachments/assets/6afe702a-f9aa-4058-9399-aec88edc520c" />()
