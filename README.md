@@ -19,4 +19,4 @@ Framework: SwiftUI
 Tools: Xcode 26, Git, GitHub.
 
 📸 Screenshot
-(اسحب الصورة اللي فيها شكل الموبايل وحطها هنا)<img width="1710" height="996" alt="Screenshot 2026-04-17 at 10 26 08 PM" src="https://github.com/user-attachments/assets/9c9f4cc4-80f0-478f-8e35-c4e71b16f38d" />
+![Uploading Screenshot 2026-04-17 at 10.26.08 PM.png…]()
